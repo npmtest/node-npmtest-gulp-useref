@@ -1,6 +1,6 @@
 # npmtest-gulp-useref
 
-#### test coverage for  [gulp-useref (v3.1.2)](https://github.com/jonkemp/gulp-useref#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-useref.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-useref) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-useref.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-useref)
+#### basic test coverage for  [gulp-useref (v3.1.2)](https://github.com/jonkemp/gulp-useref#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-useref.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-useref) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-useref.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-useref)
 
 #### Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-useref/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-useref/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-useref/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-useref/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-useref/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-useref/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-useref/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-useref/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-useref/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-useref/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-useref/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-useref/build/coverage.html/index.html)
 
@@ -108,7 +108,8 @@
         "lint": "gulp lint",
         "test": "mocha"
     },
-    "version": "3.1.2"
+    "version": "3.1.2",
+    "bin": {}
 }
 ```
 
