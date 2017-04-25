@@ -27,7 +27,7 @@
 <tspan x="10" y="394">  ├─┬ gulp-concat@2.6.1 </tspan>
 <tspan x="10" y="410">  │ ├─┬ concat-with-sourcemaps@1.0.4 </tspan>
 <tspan x="10" y="426">  │ │ └── source-map@0.5.6 </tspan>
-<tspan x="10" y="442">  │ └─┬ vinyl@2.0.1 </tspan>
+<tspan x="10" y="442">  │ └─┬ vinyl@2.0.2 </tspan>
 <tspan x="10" y="458">  │   ├── clone@1.0.2 </tspan>
 <tspan x="10" y="474">  │   ├── clone-buffer@1.0.0 </tspan>
 <tspan x="10" y="490">  │   ├── clone-stats@1.0.0 </tspan>
@@ -127,7 +127,7 @@
 <tspan x="10" y="1994">    │ │ ├── filename-regex@2.0.0 </tspan>
 <tspan x="10" y="2010">    │ │ ├── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="2026">    │ │ ├── is-glob@2.0.1 </tspan>
-<tspan x="10" y="2042">    │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2042">    │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="2058">    │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="2074">    │ │ ├── normalize-path@2.1.1 </tspan>
 <tspan x="10" y="2090">    │ │ ├─┬ object.omit@2.0.1 </tspan>
